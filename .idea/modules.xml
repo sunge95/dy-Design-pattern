@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01singleton/01singleton.iml" filepath="$PROJECT_DIR$/01singleton/01singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02simpleFactory/02simpleFactory.iml" filepath="$PROJECT_DIR$/02simpleFactory/02simpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03methodFactory/03methodFactory.iml" filepath="$PROJECT_DIR$/03methodFactory/03methodFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04abstractFactory/04abstractFactory.iml" filepath="$PROJECT_DIR$/04abstractFactory/04abstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05strategy/05strategy.iml" filepath="$PROJECT_DIR$/05strategy/05strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06Observer/06Observer.iml" filepath="$PROJECT_DIR$/06Observer/06Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07Adapter/07Adapter.iml" filepath="$PROJECT_DIR$/07Adapter/07Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08TemplateMethod/08TemplateMethod.iml" filepath="$PROJECT_DIR$/08TemplateMethod/08TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09Decorator/09Decorator.iml" filepath="$PROJECT_DIR$/09Decorator/09Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10StaticProxy/10StaticProxy.iml" filepath="$PROJECT_DIR$/10StaticProxy/10StaticProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dy-Design-pattern.iml" filepath="$PROJECT_DIR$/.idea/dy-Design-pattern.iml" />
+    </modules>
+  </component>
+</project>
