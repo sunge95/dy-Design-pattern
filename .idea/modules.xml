@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/08TemplateMethod/08TemplateMethod.iml" filepath="$PROJECT_DIR$/08TemplateMethod/08TemplateMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/09Decorator/09Decorator.iml" filepath="$PROJECT_DIR$/09Decorator/09Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/10StaticProxy/10StaticProxy.iml" filepath="$PROJECT_DIR$/10StaticProxy/10StaticProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11DynamicProxy/11DynamicProxy.iml" filepath="$PROJECT_DIR$/11DynamicProxy/11DynamicProxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dy-Design-pattern.iml" filepath="$PROJECT_DIR$/.idea/dy-Design-pattern.iml" />
     </modules>
   </component>
